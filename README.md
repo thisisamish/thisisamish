@@ -17,6 +17,10 @@
   <a href="https://git.io/streak-stats">
     <img align="center" width="50%" src="https://streak-stats.demolab.com?user=thisisamish&theme=swift" />
   </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" width="41.7%" src="https://github-readme-stats.vercel.app/api/wakatime?username=thisisamish&theme=swift&layout=compact" />
+  </a>
 </p>
 
 <p align="center">
