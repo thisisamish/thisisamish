@@ -6,7 +6,7 @@
 <h3 align="center">My Tech-Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,firebase&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass&theme=dark&perline=6" />
   </a>
 </p>
 
@@ -40,9 +40,9 @@
     <img align="center" width="50%" src="https://streak-stats.demolab.com?user=thisisamish&theme=swift" />
   </a>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" width="41.7%" src="https://github-readme-stats.vercel.app/api/wakatime?username=thisisamish&theme=swift" />
-  </a>
+  </a> -->
 </p>
 
 <h2 align="center">My Holopin Board</h2>
