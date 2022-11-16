@@ -52,7 +52,7 @@
   </a> -->
   
   <a href="https://leetcode.com/thisisamish/">
-    <img align="center" width="40%" src="https://leetcard.jacoblin.cool/thisisamish?theme=light&font=Noto%20Sans&ext=heatmap" />
+    <img align="center" width="50%" src="https://leetcard.jacoblin.cool/thisisamish?theme=light&font=Noto%20Sans&ext=heatmap" />
   </a>
   
 <!--   <a href="https://github.com/anuraghazra/github-readme-stats">
