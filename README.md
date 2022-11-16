@@ -6,14 +6,14 @@
 <h3 align="center">My Tech-Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,bootstrap,materialui&theme=dark&perline=6" />
   </a>
 </p>
 
 <h3 align="center">Languages I Use</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,js&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts&theme=dark" />
   </a>
 </p>
 
