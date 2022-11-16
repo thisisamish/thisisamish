@@ -1,7 +1,18 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">! I'm Amish.</h1>
 
-<h3 align="center">I'm a Frontend Web Developer!</h3> 
-<br>
+<h3 align="center">I'm a Frontend Web Developer!</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amishverma/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/thisisamish/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/thisisamish">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white" />
+  </a>
+</p>
 
 <h3 align="center">My Tech-Stack</h3>
 <p align="center">
