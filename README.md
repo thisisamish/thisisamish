@@ -17,7 +17,7 @@
 <h3 align="center">My Tech-Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,bootstrap,materialui&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,sass,bootstrap,materialui,firebase,express,mongodb&theme=dark&perline=7" />
   </a>
 </p>
 
