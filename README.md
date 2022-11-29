@@ -17,7 +17,7 @@
 <h3 align="center">My Tech-Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,sass,bootstrap,materialui,firebase,express,mongodb&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass&theme=dark&perline=7" />
   </a>
 </p>
 
@@ -51,9 +51,9 @@
     <img align="center" width="50%" src="https://streak-stats.demolab.com?user=thisisamish&theme=swift" />
   </a> -->
   
-  <a href="https://leetcode.com/thisisamish/">
+<!--   <a href="https://leetcode.com/thisisamish/">
     <img align="center" width="50%" src="https://leetcard.jacoblin.cool/thisisamish?theme=light&font=Noto%20Sans&ext=heatmap" />
-  </a>
+  </a> -->
   
 <!--   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" width="41.7%" src="https://github-readme-stats.vercel.app/api/wakatime?username=thisisamish&theme=swift" />
