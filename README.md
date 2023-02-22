@@ -60,9 +60,9 @@
   </a> -->
 </p>
 
-<h2 align="center">My Holopin Board</h2>
+<!-- <h2 align="center">My Holopin Board</h2>
 <p align="center">
   <a href="https://holopin.io/@thisisamish">
     <img align="center" width="91.7%" src="https://holopin.io/api/user/board?user=thisisamish" />
   </a>
-</p>
+</p> -->
