@@ -2,7 +2,7 @@
 
 <h3>i'm a frontend web developer.</h3>
 
-<p>(thanks for visiting my github page. you're amazing! check out my [portfolio](https://thisisamish.vercel.app/) too. 😸)</p>
+<p>(thanks for visiting my github page. you're amazing! check out my <a href="https://thisisamish.vercel.app/">portfolio</a> too. 😸)</p>
 
 </br>
 
@@ -11,20 +11,21 @@
 
 <p>
   <a href="https://www.linkedin.com/in/amishverma/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
+    LinkedIn
   </a>
+  <span>•</span>
   <a href="https://www.instagram.com/thisisamish/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" />
+    Instagram
   </a>
+  <span>•</span>
   <a href="https://twitter.com/thisisamish">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white" />
+    Twitter
   </a>
 </p>
 
 <p>please find my best works in the pinned repositories below. if you like them, please make sure to star them.</p>
-<p>i'm always open for a good chat about tech, engineering, movies and everything in between. come say hi on twitter!</p>
+<p>i'm always open for a good chat about tech, engineering, movies and everything in between. come say hi on <a href="https://twitter.com/thisisamish">twitter</a>!</p>
 
-</br>
 <h1></h1>
 
 <h3>stats that i'm proud of 🐱</h3>
