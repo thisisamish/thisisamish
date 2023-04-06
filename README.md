@@ -1,8 +1,15 @@
-<h1 align="center">Hello! I'm Amish.</h1>
+<h1>👋🏻</br>this is amish.</h1>
 
-<h3 align="center">I'm a Frontend Web Developer!</h3>
+<h3>i'm a frontend web developer.</h3>
 
-<p align="center">
+<p>(thanks for visiting my github page. you're amazing! check out my [portfolio](https://thisisamish.vercel.app/) too. 😸)</p>
+
+</br>
+
+<p>i'm a pre-final year engineering udergrad student. i have been a frontend web developer for more than an year now and i've worked on various tech-stacks. from <strong><em>vanilla html, css, js</em></strong> websites to building complex web-apps with <strong><em>next.js, typescript, tailwindcss and firebase</em></strong>, i've done it all. frontend web development is a fast-moving field and i like to keep myself up-to-date with the new tech whilst maintaining a comprehensive knowledge of the basics.</p>
+<p><strong>i'm currently looking for an internship as a frontend web developer.</strong> i would be highly grateful if you have an opportunity for me. please find me on the below links:</p>
+
+<p>
   <a href="https://www.linkedin.com/in/amishverma/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
@@ -14,55 +21,19 @@
   </a>
 </p>
 
-<h3 align="center">My Tech-Stack</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass&theme=dark&perline=7" />
-  </a>
-</p>
+<p>please find my best works in the pinned repositories below. if you like them, please make sure to star them.</p>
+<p>i'm always open for a good chat about tech, engineering, movies and everything in between. come say hi on twitter!</p>
 
-<h3 align="center">Languages I Use</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts&theme=dark" />
-  </a>
-</p>
+</br>
+<h1></h1>
 
-<h3 align="center">Tools I Use</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" />
-  </a>
-</p>
-
-<h2 align="center">Stats That I'm Proud Of</h2>
-<p align="center">
+<h3>stats that i'm proud of 🐱</h3>
+<p align="left">
   <a href="https://github.com/thisisamish/github-readme-stats">
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=thisisamish&count_private=true&show_icons=true&theme=swift" />
+    <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=thisisamish&count_private=true&show_icons=true&theme=swift" />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="41.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisamish&theme=swift&layout=compact" />
+    <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisamish&theme=swift&layout=compact" />
   </a>
 </p>
-
-<p align="center">
-<!--   <a href="https://git.io/streak-stats">
-    <img align="center" width="50%" src="https://streak-stats.demolab.com?user=thisisamish&theme=swift" />
-  </a> -->
-  
-<!--   <a href="https://leetcode.com/thisisamish/">
-    <img align="center" width="50%" src="https://leetcard.jacoblin.cool/thisisamish?theme=light&font=Noto%20Sans&ext=heatmap" />
-  </a> -->
-  
-<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="41.7%" src="https://github-readme-stats.vercel.app/api/wakatime?username=thisisamish&theme=swift" />
-  </a> -->
-</p>
-
-<!-- <h2 align="center">My Holopin Board</h2>
-<p align="center">
-  <a href="https://holopin.io/@thisisamish">
-    <img align="center" width="91.7%" src="https://holopin.io/api/user/board?user=thisisamish" />
-  </a>
-</p> -->
