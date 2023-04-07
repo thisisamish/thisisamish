@@ -31,10 +31,10 @@
 <h3>stats that i'm proud of 🐱</h3>
 <p align="left">
   <a href="https://github.com/thisisamish/github-readme-stats">
-    <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=thisisamish&count_private=true&show_icons=true&theme=swift" />
+    <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api?username=thisisamish&count_private=true&show_icons=true&theme=swift" />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisamish&theme=swift&layout=compact" />
+    <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisamish&theme=swift&layout=compact" />
   </a>
 </p>
