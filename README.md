@@ -38,3 +38,6 @@
     <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisamish&theme=swift&layout=compact" />
   </a>
 </p>
+
+<h3></h3>
+<p>if you've reached here then i surely want to connect with you. come say hi on <a href="https://twitter.com/thisisamish">twitter</a> or <a href="https://www.linkedin.com/in/amishverma/">linkedin</a>. see you there! ☺️</p>
