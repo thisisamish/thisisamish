@@ -1,12 +1,12 @@
 <h1>👋🏻</br>this is amish.</h1>
 
-<h3>i'm a frontend web developer.</h3>
+<h3>i'm a full-stack web developer.</h3>
 
 <p>(thanks for visiting my github page. you're amazing! check out my <a href="https://thisisamish.vercel.app/">portfolio</a> too. 😸)</p>
 
 </br>
 
-<p>i'm a pre-final year engineering udergrad student. i have been a frontend web developer for more than an year now and i've worked on various tech-stacks. from <strong><em>vanilla html, css, js</em></strong> websites to building complex web-apps with <strong><em>next.js, typescript, tailwindcss and firebase</em></strong>, i've done it all. frontend web development is a fast-moving field and i like to keep myself up-to-date with the new tech whilst maintaining a comprehensive knowledge of the basics.</p>
+<p>i'm a final year engineering udergrad student. i have been a frontend web developer for more than an year now and i've worked on various tech-stacks. from <strong><em>vanilla html, css, js</em></strong> websites to building complex web-apps with <strong><em>next.js, typescript, tailwindcss and firebase</em></strong>, i've done it all. frontend web development is a fast-moving field and i like to keep myself up-to-date with the new tech whilst maintaining a comprehensive knowledge of the basics.</p>
 <p><strong>i'm currently looking for an internship as a frontend web developer.</strong> i would be highly grateful if you have an opportunity for me. please find me on the below links:</p>
 
 <p>
